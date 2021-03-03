@@ -22,6 +22,7 @@ function App() {
     >
       <div className="App-header">
         <Drag data={data} />
+{        console.log("ndsbkfbask")}
       </div>
     </div>
   );
